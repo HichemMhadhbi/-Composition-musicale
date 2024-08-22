@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1724343991 source:c:\users\hichem\desktop\exercices langage c\déblocage du niveau 3\3) composition musicale\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
